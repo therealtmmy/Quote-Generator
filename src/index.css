@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0%;
+  background: url(./Components/ready-back-school.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
