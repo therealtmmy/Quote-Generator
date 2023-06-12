@@ -2,8 +2,8 @@ import React from 'react'
 import {Container, QuoteText, ParaGraph, QuoteButton} from "./Hero.styled"
 import QuotesData from "./QuotesData"
 const Hero = () => {
-    const [quotes, setQuotes] = React.useState("")
-    const [author, setAuthors] = React.useState("")
+    const [quotes, setQuotes] = React.useState("If you want to live a happy life, tie it to a goal, not to people or things.")
+    const [author, setAuthors] = React.useState("Albert Einstein")
 
     const NewQuote = () => {
         const quoteArray = QuotesData
@@ -17,7 +17,7 @@ const Hero = () => {
         <Container>
             <QuoteText>{quotes}</QuoteText>
             <ParaGraph>{author}</ParaGraph>
-            <QuoteButton onClick={NewQuote}>New Quote</QuoteButton>\
+            <QuoteButton onClick={NewQuote}>New Quote</QuoteButton>
             
         </Container>
     </>
