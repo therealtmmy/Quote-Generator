@@ -1,10 +1,45 @@
-# Getting Started with Create React App
+# React Quotes-Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 
-## Available Scripts
+Contributing to an open source project for the first time can be a scary thing. The goal of this repo is to help you take your first steps as an open source contributor by developing a simple (but hopefully fun) quotes-generator. 💖
 
-In the project directory, you can run:
+#### Try the live version of the this project: https://react-quote-generator-rho.vercel.app/
+
+## Who can contribute?
+
+Everyone can! (and I mean everyone) 💫
+
+💻 **You don’t have to contribute code**. Add a new quote with author, fix a typo, report a bug, add some documentation, do some re-design or add a translation. This project just like most open source projects are in need of all sorts of different contributions. Not just code.
+
+🌟 **You are good enough** Start off easy by fixing something small (like adding a new quotes). This will help you orient yourself in the project and increase your confidence and experience. No one will judge you if you make a mistake, and you can't break anything! Ask for some pointers if you get stuck. You got this!
+
+## Why contribute to open source?
+
+When you contribute to Open Source, you are taking part in the collaborative effort of a vast community of passionate developers and contributors! Open Source software allows you to see, use, and more importantly modify its source code. Contributing to Open Source is a great way to develop a deeper understanding of software, and the best part is being able to learn and teach alongside a community of contributors.
+
+## How to contribute
+
+Follow this step-by-step guide to make your first open source contribution. The steps you will perform in this guide is a somewhat standard workflow that you will encounter in most projects: `Fork -> Clone -> Create a branch -> Make your changes -> Add Changes -> Commit -> Push Changes`
+
+### 1. Fork
+
+The first step is to create a fork of this repo. Do so by clicking on the fork button on the top of this page. A fork is basically your own working copy of this repository.
+
+<img src=".github/fork.png" alt="Forking the repo" />
+
+### 2. Clone
+
+The next step is to clone the forked repo to your machine.
+
+Go to your GitHub repositories and open the forked repository called Rebus (_forked from ollelauribostrom/rebus_). Click on the "Clone or download" button and then click the copy to clipboard icon to get your url.
+
+Finally run the following git command in your terminal:
+
+```sh
+git clone "the copied url"
+```
 
 ### `npm start`
 
@@ -14,57 +49,73 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### 3. Create a branch
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Create a branch on your machine
 
-### `npm run build`
+```sh
+git switch -c <your new branch>
+...
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+...sh
+> Note: Replace `<your-new-branch>` with something that describes the changes you are about to make
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 4. Make your changes
 
-### `npm run eject`
+Now it's time to make your changes. Let's add a new quotes.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Open the file `QuotesData.js` in your favourite editor (preferable VSCode 😉).
+1. Add a new quote to the end of the `quotes` array.
+1. Save the file when you are done.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 5. Add Changes
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Initailize new changes by writing these command on your terminal
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```sh
+git add <the section of the file you made changes to>
+```
 
-## Learn More
+### 6. Commit changes to the main branch
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Commit your change to the main branch by running
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+git commit -m "Your message"
+```
 
-### Code Splitting
+### 7. Push your changes to Github
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Push your changes to GitHub by running:
 
-### Analyzing the Bundle Size
+```sh
+git push origin <your-new-branch-name>
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+> Note: Replace `<your-new-branch-name>` with the name of your branch
 
-### Making a Progressive Web App
+### 8. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Head over to your repository on GitHub and click on the green "Compare and pull request" button.
 
-### Advanced Configuration
+<img src=".github/pr.png" alt="Compare and pull request" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Describe your changes and submit your pull request
 
-### Deployment
+<img src=".github/pr2.png" alt="Submit pull request" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## What's next?
 
-### `npm run build` fails to minify
+🎉 Congratulations 🎉
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You just took your first step as an open source contributor. Your pull request will be reviewed as soon as possible.
+
+Please read the full text so that you can understand what actions will and will not be tolerated.
+
+Please kindly remember to star this repo. Thank you for your contribution.
+
+## License
+
+Licensed under the MIT License.
