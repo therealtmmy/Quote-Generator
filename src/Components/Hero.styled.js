@@ -3,29 +3,39 @@ import { styled } from "styled-components";
 export const Container = styled.div`
   background: white;
   width: 650px;
-  height: 400px;
+  height: 300px;
   border-radius: 10px;
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  padding: 50px;
 `;
 
-export const QuoteText = styled.h1`
-  width: 450px;
+export const QuoteText = styled.p`
+  margin: 0;
+  width: 100%;
+  font-size: 25px;
+  font-weight: bolder;
   text-transform: capitalize;
+  text-align: justify;
+  text-align-last: center;
   line-height: 40px;
 `;
 
-export const ParaGraph = styled.p`
+export const AuthorText = styled.span`
+  margin-top: 20px;
+  width: 100%;
+  display: inline-block;
+  font-size: 20px;
   letter-spacing: 5px;
-  font-size: 25px;
-  color: red;
+  text-align: center;
+  color: gray;
 `;
 
 export const QuoteButton = styled.button`
+  margin-top: 50px;
   border: none;
   width: 120px;
   height: 40px;
@@ -33,4 +43,5 @@ export const QuoteButton = styled.button`
   color: white;
   cursor: pointer;
   font-size: 15px;
+  border-radius: 5px;
 `;
