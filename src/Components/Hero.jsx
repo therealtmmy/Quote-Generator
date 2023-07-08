@@ -15,7 +15,7 @@ const Hero = () => {
   return (
     <>
         <Container>
-            <QuoteText>{quotes}</QuoteText>
+            <QuoteText>{`"${quotes}"`}</QuoteText>
             <ParaGraph>{author}</ParaGraph>
             <QuoteButton onClick={NewQuote}>New Quote</QuoteButton>
             
