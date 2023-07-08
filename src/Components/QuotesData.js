@@ -13,19 +13,19 @@ const quotes = [
 
   {
     quote:
-      "At his best, man is the noblest of all animals; separated from law and justice he is the worst",
+      "At his best, man is the noblest of all animals; separated from law and justice he is the worst.",
     person: "Aristotle",
   },
 
   {
     quote:
-      "Your time is limited, so dont waste it living someone elses life",
+      "Your time is limited, so dont waste it living someone elses life.",
     person: "Steve Jobs",
   },
 
   {
     quote:
-      "Tell me and I forget, Teach me and I remember. Involve me and I learn",
+      "Tell me and I forget, Teach me and I remember. Involve me and I learn.",
     person: "Benjamin Franklin",
   },
 
@@ -70,13 +70,13 @@ const quotes = [
   },
 
   {
-    quote: "To be rewarded well is to trade well with Life",
+    quote: "To be rewarded well is to trade well with Life.",
     person: "Mary Gideon",
   },
 
   {
     quote:
-      "What you see with the eyes of faith is more real than what you see with your optical eyes",
+      "What you see with the eyes of faith is more real than what you see with your optical eyes.",
     person: "Chris Oyakhilome",
   },
 
@@ -87,7 +87,7 @@ const quotes = [
   },
 
   {
-    quote: "Remember to live while you are busy surviving",
+    quote: "Remember to live while you are busy surviving.",
     person: "Mary Gideon",
   },
 
@@ -99,19 +99,19 @@ const quotes = [
 
   {
     quote:
-      "The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy",
+      "The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.",
     person: "Albert Camus",
   },
 
   {
     quote:
-      "It is always easy to be logical. It is almost impossible to be logical to the bitter end",
+      "It is always easy to be logical. It is almost impossible to be logical to the bitter end.",
     person: "Albert Camus",
   },
 
   {
     quote:
-      "The nexus of space and time where you are now is the most immediate sector in your universe",
+      "The nexus of space and time where you are now is the most immediate sector in your universe.",
     person: "Terence McKenna",
   },
 ];
