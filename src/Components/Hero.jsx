@@ -1,5 +1,5 @@
 import React from 'react'
-import {Container, QuoteText, ParaGraph, QuoteButton} from "./Hero.styled"
+import {Container, QuoteText, AuthorText, QuoteButton} from "./Hero.styled"
 import QuotesData from "./QuotesData"
 const Hero = () => {
     const [quotes, setQuotes] = React.useState("If you want to live a happy life, tie it to a goal, not to people or things.")
@@ -15,10 +15,12 @@ const Hero = () => {
   return (
     <>
         <Container>
-            <QuoteText>{quotes}</QuoteText>
-            <ParaGraph>{author}</ParaGraph>
+            <div>
+              <QuoteText>{`"${quotes}"`}</QuoteText>
+              <AuthorText>{author}</AuthorText>
+            </div>
+
             <QuoteButton onClick={NewQuote}>New Quote</QuoteButton>
-            
         </Container>
     </>
   )

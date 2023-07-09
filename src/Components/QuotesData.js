@@ -1,82 +1,82 @@
 const quotes = [
   {
     quote:
-      '"The best way to find yourself is to lose yourself in the service of others."',
+      "The best way to find yourself is to lose yourself in the service of others.",
     person: "Mahatma Gandhi",
   },
 
   {
     quote:
-      '" If you want to live a happy life, tie it to a goal, not to people or things."',
+      "If you want to live a happy life, tie it to a goal, not to people or things.",
     person: "Albert Einstein",
   },
 
   {
     quote:
-      '" At his best, man is the noblest of all animals; separated from law and justice he is the worst"',
+      "At his best, man is the noblest of all animals; separated from law and justice he is the worst.",
     person: "Aristotle",
   },
 
   {
     quote:
-      '" Your time is limited, so dont waste it living someone elses life"',
+      "Your time is limited, so dont waste it living someone elses life.",
     person: "Steve Jobs",
   },
 
   {
     quote:
-      '" Tell me and I forget, Teach me and I remember. Involve me and I learn"',
+      "Tell me and I forget, Teach me and I remember. Involve me and I learn.",
     person: "Benjamin Franklin",
   },
 
   {
     quote:
-      '"If you look at what you have in life, you will always have more. If you look at what you dont have to live, you will never have enough."',
+      "If you look at what you have in life, you will always have more. If you look at what you dont have to live, you will never have enough.",
     person: "Oprah Winfrey",
   },
 
   {
     quote:
-      '"It does not matter how slowly you go. As long as you do not stop."',
+      "It does not matter how slowly you go. As long as you do not stop.",
     person: "Confucius",
   },
 
   {
     quote:
-      '"Our lives begin to end the day we become slient about things that matter."',
+      "Our lives begin to end the day we become slient about things that matter.",
     person: "Martin Luther King, Jr",
   },
 
   {
     quote:
-      '"Remember that not getting what you want is sometimes a wonderful stroke of luck."',
+      "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
     person: "Dalai Lana",
   },
 
   {
-    quote: '"The journey of a thousand miles begins with one step."',
+    quote: "The journey of a thousand miles begins with one step.",
     person: "Lao Tzu",
   },
 
   {
     quote:
-      '"The price it takes to be fake is the same price it takes to be real!"',
+      "The price it takes to be fake is the same price it takes to be real!",
     person: "Apostle Joshua Selman",
   },
 
   {
-    quote: '"There is no self-made man, we are all products of God’s grace."',
+    quote: "There is no self-made man, we are all products of God’s grace.",
     person: "Bishop David Oyedepo",
   },
 
   {
-    quote: '"To be rewarded well is to trade well with Life"',
+    quote: "To be rewarded well is to trade well with Life.",
     person: "Mary Gideon",
   },
 
   {
     quote:
-      "What you see with the eyes of faith is more real than what you see with your optical eyes",
+      "What you see with the eyes of faith is more real than what you see with your optical eyes.",
     person: "Chris Oyakhilome",
   },
 
@@ -87,7 +87,7 @@ const quotes = [
   },
 
   {
-    quote: "Remember to live while you are busy surviving",
+    quote: "Remember to live while you are busy surviving.",
     person: "Mary Gideon",
   },
 
@@ -99,19 +99,19 @@ const quotes = [
 
   {
     quote:
-      "The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy",
+      "The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.",
     person: "Albert Camus",
   },
 
   {
     quote:
-      "It is always easy to be logical. It is almost impossible to be logical to the bitter end",
+      "It is always easy to be logical. It is almost impossible to be logical to the bitter end.",
     person: "Albert Camus",
   },
 
   {
     quote:
-      "The nexus of space and time where you are now is the most immediate sector in your universe",
+      "The nexus of space and time where you are now is the most immediate sector in your universe.",
     person: "Terence McKenna",
   },
 ];
