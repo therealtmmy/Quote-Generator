@@ -561,25 +561,25 @@ const quotes = [
    
    {
     quote:
-     "“When you are doing something that is right, you just do it and take care … Someone has to do this.”",
+     "When you are doing something that is right, you just do it and take care … Someone has to do this.",
     person: "Langston Hughes",
    },
    
    {
     quote:
-     "“Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.”",
+     "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.",
     person: "Diane Luna",
    },
    
    {
     quote:
-     "“The purpose of our lives is to be happy.”",
+     "The purpose of our lives is to be happy.",
     person: "Dr. Damary M. Bonilla-Rodriguez",
    },
    
    {
     quote:
-     "“I have discovered in life that there are ways of getting almost anywhere you want to go, if you really want to go.”",
+     "I have discovered in life that there are ways of getting almost anywhere you want to go, if you really want to go.",
     person: "Earl G. Graves, Sr.",
    },
    
@@ -597,55 +597,55 @@ const quotes = [
    
    {
     quote:
-     "“Hold on to your dreams of a better life and stay committed to striving to realize it.”",
+     "Hold on to your dreams of a better life and stay committed to striving to realize it.",
     person: "Ernest Hemingway",
    },
    
    {
     quote:
-     "“If life were predictable it would cease to be life, and be without flavor.”",
+     "If life were predictable it would cease to be life, and be without flavor.",
     person: "Frank Sinatra",
    },
    
    {
     quote:
-     "“In order to write about life first you must live it.”",
+     "In order to write about life first you must live it.",
     person: "Gabriel García Márquez",
    },
    
    {
     quote:
-     "“The big lesson in life, baby, is never be scared of anyone or anything.”",
+     "The big lesson in life, baby, is never be scared of anyone or anything.",
     person: "George Takei",
    },
    
    {
     quote:
-     "“All human beings have three lives: public, private, and secret.”",
+     "All human beings have three lives: public, private, and secret.",
     person: "Harvey Milk",
    },
    
    {
     quote:
-     "“I intend to live life, not just exist.”",
+     "I intend to live life, not just exist.",
     person: "Gabriel García Márquez",
    },
    
    {
     quote:
-     "“I know you can't live on hope alone. But without hope, life is not worth living. So you, and you and you: You got to give them hope. You got to give them hope!”",
+     "I know you can't live on hope alone. But without hope, life is not worth living. So you, and you and you: You got to give them hope. You got to give them hope!",
     person: "Jackie Robinson",
    },
    
    {
     quote:
-     "“What matters in life is not what happens to you but what you remember and how you remember it.”",
+     "What matters in life is not what happens to you but what you remember and how you remember it.",
     person: "James Baldwin",
    },
    
    {
     quote:
-     "“A life is not important except in the impact it has on other lives.”",
+     "A life is not important except in the impact it has on other lives.",
     person: "Langston Hughes",
    },
    
@@ -657,7 +657,7 @@ const quotes = [
    
    {
     quote:
-     "“Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.”",
+     "Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.",
     person: "Maya Angelou",
    },
    
@@ -675,31 +675,31 @@ const quotes = [
    
    {
     quote:
-     "“Not everything that is faced can be changed, but nothing can be changed until it is faced.”",
+     "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
     person: "Bruce Lee",
    },
    
    {
     quote:
-     "“He who is not courageous enough to take risks will accomplish nothing in life.”",
+     "He who is not courageous enough to take risks will accomplish nothing in life.",
     person: "Phillipa Soo",
    },
    
    {
     quote:
-     "“Do not pray for an easy life, pray for the strength to endure a difficult one.”",
+     "Do not pray for an easy life, pray for the strength to endure a difficult one.",
     person: "Rita Dove",
    },
    
    {
     quote:
-     "“Life isn’t perfect, any failures you have are actually learning moments. They teach us how to grow and evolve.”",
+     "Life isn’t perfect, any failures you have are actually learning moments. They teach us how to grow and evolve.",
     person: "Sandra X Pradas Martin",
    },
    
    {
     quote:
-     "“There are times in life when, instead of complaining, you do something about your complaints.”",
+     "There are times in life when, instead of complaining, you do something about your complaints.",
     person: "Stephen King",
    },
    
@@ -711,19 +711,19 @@ const quotes = [
    
    {
     quote:
-     "“Get busy living or get busy dying.”",
+     "Get busy living or get busy dying.",
     person: "Oprah Winfrey",
    },
    
    {
     quote:
-     "“The only real failure in life is not to be true to the best one knows.",
+     "The only real failure in life is not to be true to the best one knows.",
     person: "Yai Vargas",
    },
    
    {
     quote:
-     "“Throughout life people will make you mad, disrespect you and treat you bad. Let God deal with the things they do, cause hate in your heart will consume you too.",
+     "Throughout life people will make you mad, disrespect you and treat you bad. Let God deal with the things they do, cause hate in your heart will consume you too.",
     person: "Oprah Winfrey",
    },
    
@@ -753,7 +753,7 @@ const quotes = [
    
    {
     quote:
-     "“There are years that ask questions and years that answer.”",
+     "There are years that ask questions and years that answer.",
     person: "Hailee Steinfeld",
    },
    
